@@ -1,0 +1,13 @@
+C#:
+- programming language;
+- developed by microsoft;
+- objectoriented, modern;
+- for development on the .NET-platform or directly in usage with win32-applications
+
+.Net Framwork:
+- is part of the .NET software-platform;
+- used for development and execution of softwareapplications;
+- consists of a common-language-runtime, classlibraries, programminginterfaces and services;
+- .NET Framwork is avaiable on different Platforms(Windows, WinMobile, ... , Momo[Linux, Mac]);
+- Functionality: when a progarm is compiled, the CLR translates the program to the CIL(common intermediate language);
+		 when executed: .NET translate CIL to the machin language of the current OS;
