@@ -1,0 +1,15 @@
+ushort = 52,130;
+sbyte = -115;
+int = 4825932;
+sbyte = 97;
+short = -10000;
+short  = 20000;
+byte = 224;
+int = 970,000,000;
+sbyte = 112;
+sbyte = -44;
+int = -1000000;
+short = 1990;
+long = 123456789123456789;
+
+
